@@ -33,10 +33,7 @@ Codesignal.gif in root directory
 
 Created with KAP
 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![](https://github.com/bbajra/web102_prework/codesignal.gif)
 
 ## Notes
 
