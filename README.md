@@ -28,14 +28,13 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 
 Codesignal.gif in root directory
 
 Created with KAP
 
-![](https://github.com/web102_prework/codesignal.gif)
-![](https://github.com/bbajra/web102_prework/codesignal.gif)
+![](https://github.com/bbajra/web102_prework/blob/main/codesignal.gif)
 
 ## Notes
 
